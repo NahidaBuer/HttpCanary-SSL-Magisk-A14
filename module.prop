@@ -1,7 +1,7 @@
 id=HttpCanaryBundle
 name=HttpCanary
-version=v3.3.6.1
-versionCode=9
-author=FeliciaWen&Nahida
+version=v3.3.6.3
+versionCode=15
+author=Nahida
 description=HttpCanary Certificate Bundle
-support=https://github.com/wmyfelix
+support=https://github.com/NahidaBuer/HttpCanary-SSL-Magisk-A14
